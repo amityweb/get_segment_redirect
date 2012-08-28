@@ -11,6 +11,7 @@ Unzip and rename the folder to get_segment_redirect. Upload the get_segment_redi
 ## Usage
 
 The plugin must be called in the template shown for that URL, as follows:
+
 	{exp:get_segment_redirect get_variable="color" base_url="/template_group/"}
 
 For example, if you submit a form using GET, or link to this URL:
