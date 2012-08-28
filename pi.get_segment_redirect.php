@@ -15,7 +15,7 @@ $plugin_info = array(
 *
 * @package        get_segment_redirect
 * @author         Amity Web Solutions Ltd <info@amitywebsolutions.co.uk>
-* @license        http://creativecommons.org/licenses/by-sa/3.0/
+* @license        http://opensource.org/licenses/bsd-3-clause
 */
 class Get_segment_redirect {
 
